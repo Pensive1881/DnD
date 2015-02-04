@@ -1,4 +1,4 @@
 class Player < ActiveRecord::Base
 	has_many :encounters
-	has_one :dice
+	has_one :die
 End

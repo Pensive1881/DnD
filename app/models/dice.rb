@@ -1,4 +1,4 @@
-class Dice < ActiveRecord::Base
+class Die < ActiveRecord::Base
 
 end
 
